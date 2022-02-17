@@ -1,7 +1,4 @@
-<<<<<<< HEAD
+
 Hello World and hello again
-=======
-Hello World
-another line
->>>>>>> email-feature
+
 
